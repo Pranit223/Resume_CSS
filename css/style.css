@@ -1,0 +1,252 @@
+.top{
+    background-color: #e4f9f5;
+    height: 700px;
+    padding-top: 100px;
+}
+
+
+body{
+    text-align: center;
+    margin-top:0%;
+    margin-left:0%;
+    margin-right:0%;
+}
+
+.bottomcloud{
+position: absolute;
+left: 150px;
+top:300px;
+height: 170px;
+}
+.bottomcloud:hover{
+    animation-name: rotate;
+    animation-duration: 0.1s;
+
+}
+.topcloud{
+    position: absolute;
+    right: 170px;
+    height: 170px;
+    
+
+}
+.topcloud:hover{
+    animation-name: rotate;
+    animation-duration: 0.1s;
+
+}
+@keyframes rotate{
+    from{
+        height: 170px;
+    }
+    to{
+        height: 190px;
+    }
+}
+.mountain{
+ position: relative;
+ top: 300px;   
+ height: 200px;
+}
+.heading{
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625em;
+    margin:0%;
+    color: #66BFBF;
+}
+.hello{
+    color: #11999E;
+}
+.student{
+    line-height: 2;
+    font-family: 'Montserrat', sans-serif;
+  
+    margin: 0px;
+    font-size:2em;
+    color: #66BFBF;
+    font-weight:bolder;
+    font-weight: bolder;
+}
+.middle{
+    margin-top: 50px;
+}
+
+.profile{
+    margin-bottom: 100px;;
+}
+
+.skilltag{
+    color: #11999E;
+    position: relative;
+    left: 250px;
+    bottom: 250px;
+}
+.skilltag2{
+    color: #11999E;
+    position: relative;
+    left: 750px;
+    bottom: 270px;
+    width: 40%;
+}
+.skills2{
+    width: 50%;
+    margin: 0 auto 0 auto;
+    text-align: left;
+    line-height: 2;
+    position: relative;
+    right: 200px;
+    bottom: 50px;
+}
+.skills{
+    width: 50%;
+    margin: 0 100px 0 100px;
+    text-align: left;
+    line-height: 2;
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
+.skillimg1{
+    width: 25%;
+    
+    margin-right: 30px;
+}
+.skillimg2{
+    width: 25%;
+    position: relative;
+    left: 1000px;
+}
+.head{
+    margin-left:540px;
+    position: relative;
+    bottom: 50px;
+    color: #11999E;
+    text-decoration: underline;
+}
+.para1{
+    position: relative;
+    left: 250px;
+    bottom: 250px;
+}
+.para2{
+    position: relative;
+    left: 240px;
+    bottom: 250px;
+}
+.description{
+    font-family: 'Oswald', sans-serif;
+}
+.middle{
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    height: 1700px;
+}
+hr{
+    border-style:none;
+    border-top-style: dotted;
+    border-color: rgb(157, 155, 155);
+    border-width: 7px;
+    width: 3%;
+  }
+  .getin{
+    color: #4d9b9b;
+    font-size: 40px;
+  }
+  .contact{
+    position: relative;
+    bottom: 200px;
+  }
+.end{
+    background-color: #66bfbf;
+    position: relative;
+    bottom: 100px;
+    margin: 0px;
+    height:200px;
+    width: 100%;
+    
+    
+}
+.quote{
+    font-size: 30px;
+    font-family: 'Oswald', sans-serif;
+    color: #4d9b9b;
+}
+.BUTTON_NOX {
+    -webkit-border-radius: 52px;
+    -moz-border-radius: 52px;
+    border-radius: 52px;
+    color: #FFFFFF;
+    font-family: 'Oswald', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    padding: 14px;
+    background-color: #5DACAC;
+    -webkit-box-shadow: -1px -1px 8px 2px #FFFFFF;
+    -moz-box-shadow: -1px -1px 8px 2px #FFFFFF;
+    box-shadow: -1px -1px 8px 2px #FFFFFF;
+    text-shadow: 7px 4px 13px #000000;
+    border: solid #4D9B9B 0;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .BUTTON_NOX:hover {
+    background: #73DDDD;
+    border: solid #1B4E99 0;
+    -webkit-border-radius: 42px;
+    -moz-border-radius: 42px;
+    border-radius: 42px;
+    text-decoration: none;
+ }
+ .instagram{
+    height: 30px;
+    width: 30px;
+    position: relative;
+    top: 27px;
+    left: 5px;
+    
+ }
+ .linkdin{
+    height: 25px;
+    width: 25px;
+    margin-right: 20px;
+    position: relative;
+    top: 25px;
+    left: 20px;
+ }
+ .lastlink{
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    position: relative;
+    top: 20px;
+    color: #016e6e;;
+    font-family: 'Oswald', sans-serif;
+ }
+ .lastlink:hover{
+    color: #e4f9f5;
+ }
+ .lastlink2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    position: relative;
+    top: 20px;
+    color: #016e6e;;
+    font-family: 'Oswald', sans-serif;
+ }
+ .lastlink2:hover{
+    color: #e4f9f5;
+ }
+.copyright{
+    font-family: 'Oswald', sans-serif;
+    font-size: 15px;
+    color: #bbf0e7;
+    position: relative;
+    top: 125px;
+
+}
+.copyright:hover{
+    color: white;
+}
