@@ -81,6 +81,7 @@ height: 170px;
     position: relative;
     left: 250px;
     bottom: 250px;
+    margin-top: 10%;
 }
 .skilltag2{
     color: #11999E;
@@ -118,9 +119,13 @@ height: 170px;
     left: 1000px;
 }
 .head{
-    margin-left:540px;
-    position: relative;
-    bottom: 50px;
+    width: 23%;
+    height: 10%;
+    margin-left:40%;
+    margin-right: 40%;
+    
+    position: absolute;
+    top: 1250px;
     color: #11999E;
     text-decoration: underline;
 }
