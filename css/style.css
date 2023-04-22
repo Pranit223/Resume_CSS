@@ -121,13 +121,8 @@ height: 170px;
 }
 .head{
     width: 23%;
-    height: 10%;
     margin-left:40%;
     margin-right: 40%;
-    padding-bottom: 20%;
-    
-    position: absolute;
-    top: 1250px;
     color: #11999E;
     text-decoration: underline;
 }
