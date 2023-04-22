@@ -13,6 +13,7 @@ body{
 }
 
 .bottomcloud{
+    width: 20%;
 position: absolute;
 left: 150px;
 top:300px;
